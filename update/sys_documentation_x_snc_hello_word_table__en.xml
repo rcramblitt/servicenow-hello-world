@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Hello Word Table" language="en" table="x_snc_hello_word_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Hello Word Table</label>
+            <language>en</language>
+            <name>x_snc_hello_word_table</name>
+            <plural>Hello Word Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-07 20:51:43</sys_created_on>
+            <sys_id>295c099d641533007f444bd0909ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Hello Word Table</sys_name>
+            <sys_package display_value="Hello Word" source="x_snc_hello_word">815c859d641533007f444bd0909ed038</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello Word">815c859d641533007f444bd0909ed038</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_hello_word_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-07 20:51:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
